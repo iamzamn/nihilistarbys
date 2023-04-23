@@ -33,10 +33,12 @@ body{
   font-weight:700;
   font-size: 16px;
   color: #0F1419;
+  padding-top: 5px;
 }
 .tweet-handle{
   font-weight:500;
   font-size: 16px;
+  padding-top: 3px;
   color: #536471;
 }
 .tweet-menu{
@@ -45,6 +47,7 @@ body{
   font-weight:700;
   font-size: 16px;
   color: #536471;
+  float: right;
 }
 .input-box{
   padding-top: 0px;
@@ -52,7 +55,6 @@ body{
   border-bottom: 1.5px solid #EFF3F4;
 }
 .input-box .tweet-header{
-  background-color: red;
   position: relative;
   height: 52px;
   margin-bottom: 16px;
